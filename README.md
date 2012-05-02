@@ -1,4 +1,4 @@
 hello
 =====
 
-my first repository&lt;-whats that?
+my first repository&lt;
